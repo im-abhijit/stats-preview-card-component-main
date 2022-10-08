@@ -34,7 +34,8 @@ picture .overlay{
     width: 100%;
     height: 100%;
     background-color: hsl(277, 64%, 61%);
-    opacity: 0.6;
+    mix-blend-mode: multiply;
+    opacity: 0.8;
     top: 0;
 }
 
